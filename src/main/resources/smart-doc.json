@@ -1,0 +1,19 @@
+{
+  "serverUrl": "http://localhost:8081",
+  "pathPrefix": "",
+  "allInOne": true,
+  "outPath": "./src/main/resources/static/doc",
+  "coverOld": true,
+  "style": "xt256",
+  "createDebugPage": true,
+  "projectName": "zero-check 模型检查系统",
+  "revisionLogs": [
+    {
+      "version": "1.0",
+      "revisionTime": "2023-11-31 10:30",
+      "status": "创建",
+      "author": "wei",
+      "remarks": "zero模型检查系统"
+    }
+  ]
+}
